@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\ClienteCola.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\ClienteCola.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\ClienteCola.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\obj\Debug\ClienteCola.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\obj\Debug\ClienteCola.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ClienteCola\ClienteCola\obj\Debug\ClienteCola.pdb
